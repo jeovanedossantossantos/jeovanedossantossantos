@@ -19,5 +19,5 @@
 <code><img height="20" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></code>
 
-![Snake animation](https://github.com/jeovanedossantossantos/jeovanedossantossantos/blob/output/github-contribution-grid-snake.svg)
+
 
