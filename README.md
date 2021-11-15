@@ -1,7 +1,7 @@
 
 ## Olá pessoal, Meu nome é Jeovane!!! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
  
-… Fullstack Developer 👩‍💻
+… Dev Fullstack (em formação)👩‍💻
  
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/jeovanedossantossantos)](https://github.com/jeovanedossantossantos)
 <div>
