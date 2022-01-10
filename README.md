@@ -2,7 +2,10 @@
 ## Olá pessoal, Meu nome é Jeovane!!! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/db8f1cbd38ac0ae2a08f36f961096dbd59a02393/Assets/Developer.gif width="100">
  
 … Dev Fullstack (em formação)👩‍💻
+<div>
+<a href="https://www.linkedin.com/in/jeovanesantos/"" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 
+</div>
 <code href="https://www.linkedin.com/in/jeovanesantos/"><img height="20"  src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></img></code>
 <code><img height="20"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></code>
 
