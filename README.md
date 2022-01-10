@@ -3,7 +3,7 @@
  
 … Dev Fullstack (em formação)👩‍💻
 
-<code><img height="20"  src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></img></code>
+<code href="https://www.linkedin.com/in/jeovanesantos/"><img height="20"  src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></img></code>
 <code><img height="20"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></code>
 
 <div>
