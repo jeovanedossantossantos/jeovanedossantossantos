@@ -1,7 +1,7 @@
 
 ## Olá pessoal, Meu nome é Jeovane Dos Santos!!! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/db8f1cbd38ac0ae2a08f36f961096dbd59a02393/Assets/Developer.gif width="100">
  
-… Dev Fullstack (em formação)👩‍💻
+… Dev Fullstack👩‍💻
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Jeovane-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeovanesantos/)](https://www.linkedin.com/in/jeovanesantos/)
