@@ -29,5 +29,5 @@
  </div>
 
 
-<a href="https://github.com/jeovanedossantossantos"><img alt="jeovanedossantossantos Contribution Graph" src="https://activity-graph.herokuapp.com/graph?username=jeovanedossantossantos&bg_color=1F222E&color=F8D866&line=31e981&point=FFFFFF&hide_border=true" /></a>
+<!--<a href="https://github.com/jeovanedossantossantos"><img alt="jeovanedossantossantos Contribution Graph" src="https://activity-graph.herokuapp.com/graph?username=jeovanedossantossantos&bg_color=000000&color=32CD32&line=FF8C00&point=FFFFFF&hide_border=true" /></a>-->
 
