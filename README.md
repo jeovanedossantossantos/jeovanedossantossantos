@@ -1,8 +1,7 @@
 
 ## Olá, meu nome é Jeovane Dos Santos!!! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/db8f1cbd38ac0ae2a08f36f961096dbd59a02393/Assets/Developer.gif width="100">
- 
-… Dev Fullstack👩‍💻
-
+Dev Fullstack👩‍💻
+   
 
 [![Linkedin Badge](https://img.shields.io/badge/-Jeovane-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeovanesantos/)](https://www.linkedin.com/in/jeovanesantos/)
 <div align="center">
@@ -29,5 +28,4 @@
  </div>
 
 
-<!--<a href="https://github.com/jeovanedossantossantos"><img alt="jeovanedossantossantos Contribution Graph" src="https://activity-graph.herokuapp.com/graph?username=jeovanedossantossantos&bg_color=000000&color=32CD32&line=FF8C00&point=FFFFFF&hide_border=true" /></a>-->
-
+<!-- <a href="https://github.com/jeovanedossantossantos"><img alt="jeovanedossantossantos Contribution Graph" src="https://activity-graph.herokuapp.com/graph?username=jeovanedossantossantos&bg_color=000000&color=32CD32&line=FF8C00&point=FFFFFF&hide_border=true" /></a-->
