@@ -26,5 +26,11 @@ Dev Fullstack👩‍💻
    <code><img height="20" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></code>
  
  </div>
+ 
+##
+
+![Snake animation](https://github.com/jeovanedossantossantos/jeovanedossantossantos/blob/output/github-contribution-grid-snake.svg)
+
+##
 
 <a href="https://github.com/jeovanedossantossantos"><img alt="jeovanedossantossantos Contribution Graph" src="https://activity-graph.herokuapp.com/graph?username=jeovanedossantossantos&bg_color=000000&color=32CD32&line=FF8C00&point=FFFFFF&hide_border=true" /></a>
