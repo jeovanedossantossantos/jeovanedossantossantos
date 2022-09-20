@@ -31,6 +31,8 @@ Dev Fullstack👩‍💻
 
 <!-- ![Snake animation](https://github.com/jeovanedossantossantos/jeovanedossantossantos/blob/output/github-contribution-grid-snake.svg) -->
 
-
+<!--<p align="center" style="margin-bottom: 10px;">
+    <img src="https://github-profile-trophy.vercel.app?username=jeovanedossantossantos&column=7&theme=onedark&hide_border=true&include_all_commits=true&line_height=27"/>
+</p>-->
 
 <a href="https://github.com/jeovanedossantossantos"><img alt="jeovanedossantossantos Contribution Graph" src="https://activity-graph.herokuapp.com/graph?username=jeovanedossantossantos&bg_color=000000&color=32CD32&line=FF8C00&point=FFFFFF&hide_border=true" /></a>
