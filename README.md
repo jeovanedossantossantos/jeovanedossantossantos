@@ -8,7 +8,7 @@ Dev Fullstack👩‍💻
  
 
 <a href="https://github.com/jeovanedossantossantos">
-<img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeovanedossantossantos&layout=compact&langs_count=13&theme=dark"/>
+<img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeovanedossantossantos&layout=compact&langs_count=7&theme=dark"/>
 <img height="220em" src="https://github-readme-stats.vercel.app/api?username=jeovanedossantossantos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 <img height="220em" src="https://github-readme-streak-stats.herokuapp.com/?user=jeovanedossantossantos&theme=dark" alt="jeovanedossantossantos" />
  
